@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">DavidAldrin-Block1-Quiz</string>
+    <string name="this_is_a_quiz">This is a quiz.</string>
 </resources>
